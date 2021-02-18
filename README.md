@@ -17,10 +17,10 @@
  **Link**
 [Gitlogo](https://github.com/GLSupraja77)
 **table**
-|Name|branch|college|
-|-----|-----|-----|
-|likhita|cse|vrsec|
-|bhavya|cse|vrsec|   
+Name|branch|college
+-----|-----|-----
+likhita|cse|vrsec
+bhavya|cse|vrsec    
 # code
 ```
 #include<stdio.h>
