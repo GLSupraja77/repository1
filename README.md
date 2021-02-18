@@ -17,10 +17,10 @@
  **Link**
 [Gitlogo](https://github.com/GLSupraja77)   
 **table**   
-| Syntax | Description |   
-| ----------- | ----------- |   
-| Header | Title |   
-| Paragraph | Text |   
+ Syntax | Description       
+----------- | -----------      
+Header | Title       
+Paragraph | Text       
 # code
 ```
 #include<stdio.h>
