@@ -18,7 +18,7 @@
 [Gitlogo](https://github.com/GLSupraja77)
 **table**
 Name|branch|college
------|-----|-----
+|-----|-----|-----|
 likhita|cse|vrsec
 bhavya|cse|vrsec    
 # code
