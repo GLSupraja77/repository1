@@ -15,12 +15,12 @@
 **Image**
 ![Gitlogo](https://pbs.twimg.com/profile_images/1256060968703889409/v022UONZ_400x400.jpg)   
  **Link**
-[Gitlogo](https://github.com/GLSupraja77)
-**table**
-Name|branch|college
-|-----|-----|-----|
-likhita|cse|vrsec
-bhavya|cse|vrsec    
+[Gitlogo](https://github.com/GLSupraja77)   
+**table**   
+| Syntax | Description |   
+| ----------- | ----------- |   
+| Header | Title |   
+| Paragraph | Text |   
 # code
 ```
 #include<stdio.h>
